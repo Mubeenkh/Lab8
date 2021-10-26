@@ -1,0 +1,22 @@
+
+• Game idea (short description):
+My game is more likely going to be a point-based game with a couple of lives. So, basically the main character has to gather points by "touching" another object (those that give points). However, when it touches the “enemy” object, it will either loses points or lose a life. Another idea that could be added is when the player gets a specific amount of points, they will be able to proceed to the next level.
+ 
+• Scenario and characters description (include placeholder graphics, drafts, references):
+A bird flying in the sky trying to eat any insect that it comes by while avoiding other obstacles like planes, other birds, etc.
+
+• Characters’ actions and goals:
+the simple movements keys which are up, down, left, right. 
+Obstacles moving to one side of the world.
+
+• Game Win/Lose conditions:
+In order for the player to win the game or proceed to the next level, it need to reach a specific amount of points. If it touches an obstacle, it will lose a life. Once the player has 0 lives the game will end and the player will lose. Small obstacles could be added which will instead remove points from the players score instead of removing a life. Basically, small obstacle removes points, and big obstacle removes lives. 
+
+• Progression of levels:
+In each level a new obstacle(s) will be added to make the game more difficult than the previous level. Another option to increase the points deduction of the small obstacles and increase the amount of points that are needed to end the game.	
+
+• Sources of inspiration (other games, movies, etc. that inspired your idea):
+I got the idea from mobile games like JetPack, Geometry Dash Lite, and the bloodstream game we looked at in class.
+
+• What skills/interests you are looking for in a team mate:
+People who are open to new ideas and who, hopefully, will not procrastinate too much with this project.
